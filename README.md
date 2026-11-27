@@ -58,8 +58,7 @@ The goal of this project was to evaluate marketing performance, understand custo
 
 The full technical documentation covers the analytical approach, technical decisions, and reasoning behind each step. It is available in [TECHNICAL_DOCUMENTATION.md](docs/TECHNICAL_DOCUMENTATION.md).
 
-Dataset: [E-Commerce Sales Analytics Dataset](https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics) by datascikhan on Kaggle. License: see the dataset page.
-
+Dataset: [E-Commerce Sales Analytics Dataset](https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics).
 ## Author
 
 Nurul Huda · nrllhud27@gmail.com
